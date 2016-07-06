@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[| dəˈzīn ˈbēiNG |]]></title>
+        <description><![CDATA[| dəˈzīn ˈbēiNG |]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 01:57:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Constructing reality: How our brains create the world we perceive]]></title>
+            <description><![CDATA[<article><h1>Constructing reality: How our brains create the world we perceive</h1><p>Constructing reality: How our brains create the world we perceive Visual Neuroscientist from the Max Planck Florida Institute and art admirer Bill Bosking speaks at a Palm Beach County High School in Florida about the intersection of art and Neuroscience.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QMCbE2ldsxY&amp;app=desktop</link>
+            <guid isPermaLink="false">28e860fc-810c-429a-90e2-14cb364fa886</guid>
+            <pubDate>Wed, 06 Jul 2016 01:56:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
