@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[| dəˈzīn ˈbēiNG |]]></title>
         <description><![CDATA[| dəˈzīn ˈbēiNG |]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/design-being/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 01:57:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 01:59:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/design-being/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[6 TED Talks on how your brain constructs reality]]></title>
+            <description><![CDATA[<article><h1>6 TED Talks on how your brain constructs reality</h1><p>Do we experience the world as it really is? Find out with these talks that explain why we see the world the way we do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/669a3f4cfc99fbf01569c2370572283d/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fpi.tedcdn.com%2Fr%2Fpf.tedcdn.com%2Fimages%2Fplaylists%2Fbrain_constructs_reality_1200x627.jpg%3Fc%3D1050%252C550%26w%3D1050&x=0&y=0"></article>]]></description>
+            <link>https://www.ted.com/playlists/384/how_your_brain_constructs_real</link>
+            <guid isPermaLink="false">2c6a06c1-c1a5-4cab-9d7b-7744e9a5b964</guid>
+            <pubDate>Wed, 06 Jul 2016 01:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Constructing reality: How our brains create the world we perceive]]></title>
-            <description><![CDATA[<article><h1>Constructing reality: How our brains create the world we perceive</h1><p>Constructing reality: How our brains create the world we perceive Visual Neuroscientist from the Max Planck Florida Institute and art admirer Bill Bosking speaks at a Palm Beach County High School in Florida about the intersection of art and Neuroscience.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Constructing reality: How our brains create the world we perceive</h1><p>Constructing reality: How our brains create the world we perceive Visual Neuroscientist from the Max Planck Florida Institute and art admirer Bill Bosking speaks at a Palm Beach County High School in Florida about the intersection of art and Neuroscience.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/104aa98c6428db5ca06222f5a6ce556a/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FQMCbE2ldsxY%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=QMCbE2ldsxY&amp;app=desktop</link>
             <guid isPermaLink="false">28e860fc-810c-429a-90e2-14cb364fa886</guid>
             <pubDate>Wed, 06 Jul 2016 01:56:47 GMT</pubDate>
