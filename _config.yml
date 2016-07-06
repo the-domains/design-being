@@ -1,4 +1,3 @@
-layout_spectrum: 0.7480198934208602
 typography_spectrum: 0.8816441504750401
 color:
   brandStrength: 0.1312324982136488
@@ -11,4 +10,9 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.7480198934208602
+author:
+  name: Bia Russo
+  email: biarusso@inovacaoguiadapelodesign.com
 name: design being
+title: '| dəˈzīn ˈbēiNG |'
