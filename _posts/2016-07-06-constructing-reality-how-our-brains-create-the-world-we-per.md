@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=QMCbE2ldsxY&app=desktop'
 title: 'Constructing reality: How our brains create the world we perceive'
-datePublished: '2016-07-06T01:56:47.271Z'
-dateModified: '2016-07-06T01:56:24.250Z'
+datePublished: '2016-07-06T01:59:29.047Z'
+dateModified: '2016-07-06T01:57:01.268Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-06-constructing-reality-how-our-brains-create-the-world-we-per.md
